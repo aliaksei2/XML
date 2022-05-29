@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<i>
+	<name>Alex</name>
+	<surname>Dubrova</surname>
+	<age>24</age>
+</i>
+<pets>
+	<cats>no</cats>
+	<dogs>no</dogs>
+	<birds>no</birds>
+</pets>
+<wages>
+	<i_would_like>1000$</i_would_like>
+</wages>
+
