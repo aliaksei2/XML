@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<favorit film>
+	<film>Hercules</film>
+</favorit film>
+<favorit serial>
+	<serial>lost</serial>
+</favorit serial>
+<favorit food>
+	<food>Big mac</food>
+	<food>pizza</food>
+</favorit food>
+<favorit season>
+	<season>summer</season>
+</favorit season>
+<country>
+	<country>America</country>
+</country>
+
