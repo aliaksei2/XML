@@ -1,1 +1,9 @@
+<note>
+  <summary>don't open pay page</summary>
+  <severity>high</severity>
+  <step_to_reproduce>1-open website 2-click on the button</step_to_reproduce>
+  <actual_result>page don't open</actual_result>
+  <expected_result>page open and user can pay your order</expected_result>
+  <attuchment>screenshot</attuchment>
+</note>
 
